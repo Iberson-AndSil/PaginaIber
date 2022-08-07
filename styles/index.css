@@ -1,0 +1,27 @@
+.colorTema{
+    background-color: #1e6588;
+}
+
+.tematitulo{
+    font-family: 'Rubik Mono One', sans-serif;
+}
+
+.image-ini{
+    min-height: 100vh;
+    background: linear-gradient(rgba(5, 7, 12, 0.5), rgba(5, 7, 12,0.5)),  url("/imagenes/pexels-cottonbro-4064816.jpg") no-repeat center center fixed;
+	background-size:cover;
+}
+
+.estiloContenido{
+    font-family: 'Roboto Mono', monospace;
+}
+
+.estiloOscuro{
+    background: linear-gradient(rgba(5, 7, 12, 0.5), rgba(5, 7, 12,0.5));
+}
+
+.contenido{
+    /* display: flex;
+    align-items: center; */
+    padding-top: 8%;
+}
