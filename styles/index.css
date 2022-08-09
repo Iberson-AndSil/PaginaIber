@@ -16,6 +16,11 @@
     font-family: 'Roboto Mono', monospace;
 }
 
+.titulos{
+    font-family: 'Paytone One', sans-serif;
+
+}
+
 .estiloOscuro{
     background: linear-gradient(rgba(5, 7, 12, 0.5), rgba(5, 7, 12,0.5));
 }
@@ -25,3 +30,26 @@
     align-items: center; */
     padding-top: 8%;
 }
+
+.margenContenedorGeneral{
+    margin-top: 7%;
+    padding-top: 30px;
+}
+
+.color-menu-lateral{
+    background-color: #f7f7f7;
+}
+
+.color-menu-lateral:hover{
+    background-color: #1e6588;
+    color: #f7f7f7;
+}
+
+.color-fijo{
+    background-color: #1e6588;
+    color: #f7f7f7;
+}
+
+/* @media (max-width: 36em){
+
+} */
